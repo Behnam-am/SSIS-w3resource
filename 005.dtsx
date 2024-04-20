@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{032E926B-DB10-4BB0-919A-441773AA0214}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{0B31E044-0EDA-4DE9-9B27-BDBD62D18EA9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -1043,7 +1043,7 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssge="clr-namespace:Microsoft.SqlServer.Graph.Extended;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
         <AnnotationLayout
-          Text="5. From the following table write a query in SQL to return all rows from the salesorderheader table in Adventureworks database and calculate the percentage of tax on the subtotal have decided. Return salesorderid, customerid, orderdate, subtotal, percentage of tax column. Arranged the result set in ascending order on subtotal.&#xD;&#xA;&#xD;&#xA;Sample table: sales.salesorderheader"
+          Text="5. From the following table write a query in SQL to return all rows from the salesorderheader table in Adventureworks database and calculate the percentage of tax on the subtotal have decided. Return salesorderid, customerid, orderdate, subtotal, percentage of tax column. Arranged the result set in decending order on subtotal.&#xD;&#xA;&#xD;&#xA;Sample table: sales.salesorderheader"
           ParentId="Package"
           Size="200,316"
           Id="b6c27a5a-ad7a-4ade-9e88-516e520545be"
