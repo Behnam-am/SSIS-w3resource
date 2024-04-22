@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="019"
   DTS:PackageType="5"
-  DTS:VersionBuild="56"
-  DTS:VersionGUID="{305A8E40-A5B9-4C3C-A87B-3A0FD80F0969}">
+  DTS:VersionBuild="57"
+  DTS:VersionGUID="{956C5D2B-3A31-4A98-B7B6-29C966713353}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -488,9 +488,9 @@
         <NodeLayout
           Size="151,42"
           Id="Package\Data Flow Task"
-          TopLeft="351,34" />
+          TopLeft="345,36" />
         <AnnotationLayout
-          Text="19. From the following table write a query in SQL to find the contacts who are designated as a manager in various departments. Returns ContactTypeID, name. Sort the result set in descending order.&#xD;&#xA;Sample table: Person.ContactType"
+          Text="19. From the following table write a query in SQL to find the contacts who are designated as a manager in various departments. Returns ContactTypeID, name. Sort the result set in descending order.&#xA;Sample table: Person.ContactType"
           ParentId="Package"
           Size="200,213"
           Id="b6c27a5a-ad7a-4ade-9e88-516e520545be"
