@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="016"
   DTS:PackageType="5"
-  DTS:VersionBuild="51"
-  DTS:VersionGUID="{DDBE46F0-69E4-4BAD-8675-4CE88BD8F997}">
+  DTS:VersionBuild="52"
+  DTS:VersionGUID="{3AB65F13-DA63-49B3-BE63-4577961FD223}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -1434,9 +1434,9 @@
         <NodeLayout
           Size="151,42"
           Id="Package\Data Flow Task"
-          TopLeft="361,48" />
+          TopLeft="355,66" />
         <AnnotationLayout
-          Text="16. From the following table write a query in SQL to retrieve the number of employees for each City. Return city and number of employees. Sort the result in ascending order on city.&#xD;&#xA;&#xD;&#xA;Sample table: Person.BusinessEntityAddress"
+          Text="16. From the following table write a query in SQL to retrieve the number of employees for each City. Return city and number of employees. Sort the result in ascending order on city.&#xA;&#xA;Sample table: Person.BusinessEntityAddress"
           ParentId="Package"
           Size="225,196"
           Id="b6c27a5a-ad7a-4ade-9e88-516e520545be"
