@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="016"
   DTS:PackageType="5"
-  DTS:VersionBuild="54"
-  DTS:VersionGUID="{B3D5F570-38C1-4802-AF0D-449490102671}">
+  DTS:VersionBuild="55"
+  DTS:VersionGUID="{9BF5865A-08EE-4071-BF81-9938BC38AF8F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -925,8 +925,12 @@
     <LayoutInfo>
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssge="clr-namespace:Microsoft.SqlServer.Graph.Extended;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Data Flow Task"
+          TopLeft="351,39" />
         <AnnotationLayout
-          Text="17. From the following table write a query in SQL to retrieve the total sales for each year. Return the year part of order date and total due amount. Sort the result in ascending order on year part of order date.&#xD;&#xA;&#xD;&#xA;Sample table: Sales.SalesOrderHeader"
+          Text="17. From the following table write a query in SQL to retrieve the total sales for each year. Return the year part of order date and total due amount. Sort the result in ascending order on year part of order date.&#xA;&#xA;Sample table: Sales.SalesOrderHeader"
           ParentId="Package"
           Size="200,213"
           Id="b6c27a5a-ad7a-4ade-9e88-516e520545be"
@@ -942,10 +946,6 @@
             </mssge:FontInfo>
           </AnnotationLayout.FontInfo>
         </AnnotationLayout>
-        <NodeLayout
-          Size="151,42"
-          Id="Package\Data Flow Task"
-          TopLeft="351,34" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
