@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="018"
   DTS:PackageType="5"
-  DTS:VersionBuild="57"
-  DTS:VersionGUID="{1A9BB03D-CE33-44C9-B48B-33F2A03CAC9B}">
+  DTS:VersionBuild="58"
+  DTS:VersionGUID="{F24C9618-AC42-4798-A201-D624D6B3DFC5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -1023,9 +1023,9 @@
         <NodeLayout
           Size="151,42"
           Id="Package\Data Flow Task"
-          TopLeft="351,34" />
+          TopLeft="351,42" />
         <AnnotationLayout
-          Text="18. From the following table write a query in SQL to retrieve the total sales for each year. Filter the result set for those orders where order year is on or before 2016. Return the year part of orderdate and total due amount. Sort the result in ascending order on year part of order date.&#xD;&#xA;Sample table: Sales.SalesOrderHeader"
+          Text="18. From the following table write a query in SQL to retrieve the total sales for each year. Filter the result set for those orders where order year is on or before 2016. Return the year part of orderdate and total due amount. Sort the result in ascending order on year part of order date.&#xA;Sample table: Sales.SalesOrderHeader"
           ParentId="Package"
           Size="200,248"
           Id="b6c27a5a-ad7a-4ade-9e88-516e520545be"
